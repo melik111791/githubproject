@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shinow.qrscan" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:4:5-64
+9-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:4:22-62
+10    <uses-permission android:name="android.permission.VIBRATE" />
+10-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:5:5-65
+10-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:5:22-63
+11    <uses-permission android:name="android.permission.FLASHLIGHT" />
+11-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:6:5-68
+11-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:6:22-66
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:8:5-59
+13-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:8:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:9:5-69
+14-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:9:19-67
+15
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:11:5-67
+16-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:12:5-79
+17-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:12:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:13:5-80
+18-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:14:5-66
+19-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:14:22-64
+20
+21    <application>
+21-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:16:5-24:19
+22        <activity
+22-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:17:9-23:20
+23            android:name="com.shinow.qrscan.SecondActivity"
+23-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:18:17-47
+24            android:theme="@style/Theme.AppCompat.NoActionBar" >
+24-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:19:17-67
+25            <meta-data
+25-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:20:13-22:40
+26                android:name="flutterEmbedding"
+26-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:21:21-52
+27                android:value="2" />
+27-->C:\Users\melik.migirdicyan\AppData\Local\Pub\Cache\hosted\pub.dev\qrscan-0.3.3\android\src\main\AndroidManifest.xml:22:21-38
+28        </activity>
+29    </application>
+30
+31</manifest>

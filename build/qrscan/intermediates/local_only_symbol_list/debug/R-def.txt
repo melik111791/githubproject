@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color scan_corner_color_blue
+color scan_corner_color_green
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen fab_margin
+drawable scan_back
+drawable scan_blue
+drawable scan_green
+id activity_second
+id choose_photo
+id fl_my_container
+id preview_view
+id scan_back
+id scan_light
+id viewfinder_view
+layout activity_second
+layout my_camera
+mipmap ic_back
+mipmap ic_light
+mipmap ic_photo
+string title_activity_three
